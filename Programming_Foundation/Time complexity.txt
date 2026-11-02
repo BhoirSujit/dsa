@@ -1,0 +1,58 @@
+Common time complexities
+O(1)
+
+Constant
+
+
+
+Work stays constant as input grows.
+
+O(log n)
+
+Logarithmic
+
+
+
+Work grows slowly as input doubles.
+
+O(n)
+
+Linear
+
+
+
+Work grows proportionally to input.
+
+O(n log n)
+
+Linearithmic
+
+
+
+Common in efficient sorting algorithms.
+
+O(n²)
+
+Quadratic
+
+
+
+Often caused by nested loops.
+
+O(2ⁿ)
+
+Exponential
+
+
+
+Work roughly doubles with each new input.
+
+O(n!)
+
+Factorial
+
+
+
+Extremely fast growth.
+
+Illustrative growth ranking, not measured execution times.

@@ -1,0 +1,11 @@
+Auxiliary Space vs Space Complexity
+This is a common interview question.
+- Auxiliary Space: Extra memory used by an algorithm, excluding input storage.
+- Space Complexity: Total memory usage, including input storage and extra memory, depending on the convention being used.
+
+
+"What is the difference between auxiliary space and space complexity?"
+
+You can answer:
+
+"Auxiliary space is the extra memory required by an algorithm, excluding the input data. Space complexity measures the total memory required, including input and extra memory. For example, finding the maximum element in an existing array requires O(1) auxiliary space, while its total space including the input array is O(n)."
